@@ -1,1 +1,8 @@
+hw2_seq2seq.sh: A shell script that executes the Python testing script with parameters.
 
+To run the testing script, execute the following command 
+sh hw2_seq2seq.sh value1 value2
+
+Requirements
+Python 3.x
+Necessary Python packages
